@@ -1,0 +1,17 @@
+{
+  "name": "milky-power-groan-dvhp2",
+  "productName": "milky-power-groan-dvhp2",
+  "description": "My Electron application description",
+  "keywords": [],
+  "main": "./dist/main.js",
+  "version": "1.0.0",
+  "author": "dsanders11",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "18.3.15",
+    "esbuild": "^0.16.10",
+    "node-gyp": "^9.3.1"
+  }
+}
