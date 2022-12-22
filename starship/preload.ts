@@ -38,6 +38,10 @@ const css = `
     color-scheme: only dark;
   }
 
+  [data-theme='dark'] body {
+    background-color: #222;
+  }
+
   [data-theme='light'] {
     color-scheme: only light;
   }
